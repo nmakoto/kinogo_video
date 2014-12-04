@@ -119,7 +119,9 @@ class KinoGo(object):
     height: 820px;
     margin-left: -600px;
     margin-top: -410px;
+    border-color: #111;
 }
+
 </style>
 </head>
 <body class="dark">
